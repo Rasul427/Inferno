@@ -1,0 +1,20 @@
+.button {
+    background-color: #484848;
+    color: white;
+    padding: 12px 18px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    font-weight: 100;
+    font-family: 'Jost';
+    font-size: 14px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 55px 0px;
+}

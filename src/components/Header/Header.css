@@ -1,0 +1,37 @@
+header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+.logo {
+    color: #111111;
+    font-family: 'Marcellus';
+    font-size: 36px;
+}
+
+nav a {
+    color: #111111;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+    font-family: 'Jost';
+
+}
+
+nav a {
+    text-transform: uppercase;
+}
+
+.icons {
+    display: flex;
+    gap: 15px;
+}
+
+.icons img {
+    height: 25px;
+    width: 25px;
+}

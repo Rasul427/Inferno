@@ -1,0 +1,10 @@
+.container {
+    width: 1450px;
+    margin: 0 auto;
+}
+
+.action {
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-between;
+}

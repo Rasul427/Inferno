@@ -1,0 +1,17 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Jost';
+}
+
+.product h4 {
+    margin-top: 10px;
+    color: #111111;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.product p {
+    color: #8C907E;
+    font-size: 18px;
+}
